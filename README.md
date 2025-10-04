@@ -4,7 +4,7 @@
 
 Transform images into stunning ASCII art with this advanced, interactive Python tool. Featuring retro 16-bit pixel art styles, color support, live previews, and multiple output formats, it's the ultimate free ASCII image converter for developers, artists, and retro gaming enthusiasts.
 
-[![Python](https://img.shields.io/badge/python-3.8+-yellow.svg)](https://www.python.org/downloads/)
+[![Python](https://img.shields.io/badge/python-3.13+-yellow.svg)](https://www.python.org/downloads/)
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL%203.0-red.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 [![PyPI](https://img.shields.io/badge/pip-install%20advanced--ascii-brightgreen)](https://pypi.org/project/advanced-ascii/)
 [![GitHub](https://img.shields.io/github/stars/jo4dan/advanced-ascii?style=social)](https://github.com/jo4dan/advanced-ascii)
