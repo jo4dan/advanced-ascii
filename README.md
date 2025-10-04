@@ -246,7 +246,7 @@ Fork, branch, and PR! Welcome: bug fixes, new modes, docs. Follow PEP8.
 
 ## License
 
-MIT License - see [LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.html) for details.
+GPL-3.0 License - see [LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.html) for details.
 
 ## Credits
 
